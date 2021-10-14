@@ -1,8 +1,6 @@
 # myCounty
 
-myCounty is an extensive centralized website for all state and county resources.
-
-[myCounty](https://williambevans.github.io/myCounty/)
+[myCounty](https://williambevans.github.io/myCounty/) is an extensive centralized website for all state and county resources.
 
 
 ## Alabama 
