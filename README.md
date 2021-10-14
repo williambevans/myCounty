@@ -1,3 +1,7 @@
 # myCounty
 
-## Extensive central website for all US state and county resources  
+myCounty is an extensive centralized website for all state and county resources.
+
+# Texas 
+
+254 counties
